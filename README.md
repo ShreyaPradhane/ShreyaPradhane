@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Shreya Pradhane
 
-<!--
-**ShreyaPradhane/ShreyaPradhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | QA Enthusiast | JavaScript Learner  
+🎓 B.Tech Graduate (2026 Batch)  
+🚀 Passionate about building interactive web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🔭 I’m currently working on: React + Vite projects  
+- 🌱 I’m currently learning: Advanced JavaScript, React, Testing (Selenium)  
+- 👯 I’m looking to collaborate on: Frontend & QA automation projects  
+- 💬 Ask me about: HTML, CSS, JavaScript, React basics  
+- 📫 Reach me: www.linkedin.com/in/shreya-pradhane (replace with your real link)
+
+---
+
+## 🛠️ Tech Stack
+- HTML5, CSS3, JavaScript
+- React.js
+- Git & GitHub
+- Selenium (Basic)
+- Java (Basics)
+
+---
+
+## 📌 Featured Projects
+- 📝 TaskBuddy – Task management app (React + Vite)
+- 🌐 Web Semantics Blog – HTML/CSS blog layout project
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyaPradhane&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+![GitHub streak](https://streak-stats.demolab.com?user=ShreyaPradhane&theme=dark)
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/ShreyaPradhane
+- LinkedIn: https://linkedin.com (update link)
