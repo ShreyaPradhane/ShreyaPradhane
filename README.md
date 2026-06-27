@@ -42,4 +42,4 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/ShreyaPradhane
-- LinkedIn: https://linkedin.com (update link)
+- LinkedIn: www.linkedin.com/in/shreya-pradhane-596171333
